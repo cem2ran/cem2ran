@@ -1,8 +1,8 @@
 {
-  "name": "bevacqua",
+  "name": "cem2ran",
   "version": "1.0.0",
-  "description": "Nicolas Bevacqua",
-  "author": "Nicolas Bevacqua",
+  "description": "Cem Turan",
+  "author": "Cem Turan",
   "main": "./index.json",
   "scripts": {
     "postinstall": "cat index.json"

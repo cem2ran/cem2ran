@@ -1,25 +1,25 @@
-# bevacqua
+# cem2ran
 
-> Nicolas Bevacqua
+> Cem Turan
 
 # install
 
 As a `postinstall` script.
 
 ```bash
-npm install bevacqua
+npm install cem2ran
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('bevacqua'));
+console.log(require('cem2ran'));
 ```
 
 # credits
 
 [@johnkpaul](https://github.com/johnkpaul/johnkpaul)
-
+[@bevacqua](https://github.com/bevacqua/bevacqua)
 # license
 
 MIT
