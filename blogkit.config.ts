@@ -4,9 +4,9 @@ import { theme } from "blogkit-theme-minimal";
 
 export default defineConfig({
   siteConfig: {
-    title: "Blogkit Notion",
-    author: "2nthony",
-    url: "https://blogkit.vercel.app",
+    title: "/blog",
+    author: "Cem Turan",
+    url: "https://ce.ms",
   },
   theme,
   request,
